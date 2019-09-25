@@ -1,1 +1,1 @@
-include ':app', ':canvasdemo', ':betweenanim'
+include ':app', ':canvasdemo', ':betweenanim', ':gesturedemo'
